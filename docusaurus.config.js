@@ -9,7 +9,7 @@ const config = {
   title: 'HacktoberFest Ekiti 2022 Docs',
   tagline: 'HacktoberFest Ekiti 2022 Docs',
   url: 'https://hacktoberfest-ekiti.web.app',
-  baseUrl: "/docs/",
+  baseUrl: "/",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
