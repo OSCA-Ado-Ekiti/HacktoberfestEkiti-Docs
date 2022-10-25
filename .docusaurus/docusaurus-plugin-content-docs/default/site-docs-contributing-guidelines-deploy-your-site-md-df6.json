@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Contributing Guidelines/deploy-your-site",
+  "id": "Contributing Guidelines/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/Contributing Guidelines/deploy-your-site.md",
+  "sourceDirName": "Contributing Guidelines",
+  "slug": "/Contributing Guidelines/deploy-your-site",
+  "permalink": "/docs/Contributing Guidelines/deploy-your-site",
+  "draft": false,
+  "editUrl": "https://github.com/OSCA-Ado-Ekiti/HacktoberfestEkiti-Docs/docs/Contributing Guidelines/deploy-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing Guidelines",
+    "permalink": "/docs/category/contributing-guidelines"
+  },
+  "next": {
+    "title": "Open Source",
+    "permalink": "/docs/category/open-source"
+  }
+}
