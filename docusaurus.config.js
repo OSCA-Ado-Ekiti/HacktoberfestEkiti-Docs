@@ -9,12 +9,12 @@ const config = {
   title: 'HacktoberFest Ekiti 2022 Docs',
   tagline: 'HacktoberFest Ekiti 2022 Docs',
   url: 'https://hacktoberfest-ekiti.web.app',
-  baseUrl: "/docs/",
+  baseUrl: "/",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
-  
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'OSCA Ado Ekiti', // Usually your GitHub org/user name.
