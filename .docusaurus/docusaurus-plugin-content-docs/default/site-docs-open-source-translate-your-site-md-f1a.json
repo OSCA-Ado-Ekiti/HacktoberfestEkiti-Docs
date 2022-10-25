@@ -1,0 +1,27 @@
+{
+  "unversionedId": "open-source/translate-your-site",
+  "id": "open-source/translate-your-site",
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/open-source/translate-your-site.md",
+  "sourceDirName": "open-source",
+  "slug": "/open-source/translate-your-site",
+  "permalink": "/open-source/translate-your-site",
+  "draft": false,
+  "editUrl": "https://github.com/OSCA-Ado-Ekiti/HacktoberfestEkiti-Docs/docs/open-source/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/open-source/manage-docs-versions"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/"
+  }
+}

@@ -2,23 +2,23 @@
   "unversionedId": "intro",
   "id": "intro",
   "title": "Introduction",
-  "description": "What is HacktoberfestEkiti",
+  "description": "Welcome to Hacktoberfest Ekiti",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/",
-  "permalink": "/docs/",
+  "permalink": "/",
   "draft": false,
   "editUrl": "https://github.com/OSCA-Ado-Ekiti/HacktoberfestEkiti-Docs/docs/intro.md",
   "tags": [],
   "version": "current",
   "frontMatter": {
     "title": "Introduction",
-    "description": "What is HacktoberfestEkiti",
+    "description": "Welcome to Hacktoberfest Ekiti",
     "slug": "/"
   },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Translate your site",
-    "permalink": "/docs/Open Source/translate-your-site"
+    "permalink": "/open-source/translate-your-site"
   }
 }

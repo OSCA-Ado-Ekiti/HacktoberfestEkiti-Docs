@@ -1,0 +1,12 @@
+{
+  "title": "contributing-guidelines",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/contributing-guidelines",
+  "permalink": "/category/contributing-guidelines",
+  "navigation": {
+    "next": {
+      "title": "Deploy your site",
+      "permalink": "/contributing-guidelines/deploy-your-site"
+    }
+  }
+}

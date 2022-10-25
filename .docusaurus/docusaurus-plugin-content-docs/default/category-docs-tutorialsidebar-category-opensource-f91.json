@@ -1,7 +1,7 @@
 {
-  "title": "Open-Source",
-  "slug": "/category/open-source",
-  "permalink": "/docs/category/open-source",
+  "title": "OpenSource",
+  "slug": "/category/opensource",
+  "permalink": "/docs/category/opensource",
   "navigation": {
     "previous": {
       "title": "Deploy your site",

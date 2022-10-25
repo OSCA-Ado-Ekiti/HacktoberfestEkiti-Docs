@@ -6,7 +6,7 @@
   "source": "@site/docs/Open Source/translate-your-site.md",
   "sourceDirName": "Open Source",
   "slug": "/Open Source/translate-your-site",
-  "permalink": "/docs/Open Source/translate-your-site",
+  "permalink": "/Open Source/translate-your-site",
   "draft": false,
   "editUrl": "https://github.com/OSCA-Ado-Ekiti/HacktoberfestEkiti-Docs/docs/Open Source/translate-your-site.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Docs Versions",
-    "permalink": "/docs/Open Source/manage-docs-versions"
+    "permalink": "/Open Source/manage-docs-versions"
   },
   "next": {
     "title": "Introduction",
-    "permalink": "/docs/"
+    "permalink": "/"
   }
 }

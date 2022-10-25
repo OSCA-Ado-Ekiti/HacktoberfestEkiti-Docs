@@ -1,49 +1,32 @@
 ---
 title: Introduction
-description: "What is HacktoberfestEkiti"
+description: "Welcome to Hacktoberfest Ekiti"
 slug: /
 ---
 
-# Tutorial Intro
+# Welcome to Hacktoberfest Ekiti
 
-Let's discover **Docusaurus in less than 5 minutes**.
+This is a yearly program thats done with the collaboration of all available students tech community in Ekiti State to preach and spread the gospel of Open Source, to bring people of different stack/background to work collaboartively on same goals and idea, to learn new things and at the same time connect with each individuals.
 
-## Getting Started
 
-Get started by **creating a new site**.
+## Hacktoberfest Ekiti 2021
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+This was was done collaboratively with **[OSCA Ado Ekiti](https://twitter.com/osca_ado_ekiti)**, **[Codecademy EKSU](https://twitter.com/CodecademyEksu)**, **[SheCodeAfrica Ado Ekiti](https://twitter.com/sca_adoekiti)**, **[Google Developer Student Clubs Federal University Oye-Ekiti](https://twitter.com/GdscFuoye)**, **[Google Developer Student Clubs Ekiti State University](https://twitter.com/DscEksu)**.
 
-### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+![osca](https://user-images.githubusercontent.com/85078495/136645881-f317425b-9604-40fe-aa37-0f270a251851.jpeg)
 
-## Generate a new site
 
-Generate a new Docusaurus site using the **classic template**.
+What was built? collaboratively, we spinned up a web app **[hacktoberfest-ekiti.web.app](https://hacktoberfest-ekiti.web.app/)**.
 
-The classic template will automatically be added to your project after you run the command:
+## Hacktoberfest Ekiti 2022
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+This was was done collaboratively with **[OSCA Ado Ekiti](https://twitter.com/osca_adoe_ekiti)**,**[Codecademy EKSU](https://twitter.com/CodecademyEksu)**, **[SheCodeAfrica Ado Ekiti](https://twitter.com/sca_adoekiti)**, **[Google Developer Student Clubs Federal University Oye-Ekiti](https://twitter.com/GdscFuoye)**, **[Google Developer Student Clubs Ekiti State University](https://twitter.com/DscEksu)**, **[Women TechMakers Ado-Ekiti](https://twitter.com/wtmado)**, **[MSFT Community EKSU](https://twitter.com/mlsa_eksu)** and in partnership with **[The Complete Hub](https://twitter.com/TheCompleteHub)**
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+![image](https://user-images.githubusercontent.com/85078495/197695827-ea12f64c-24b5-4dc2-8c57-e213521fddcf.png)
 
-The command also installs all necessary dependencies you need to run Docusaurus.
 
-## Start your site
 
-Run the development server:
+What was built? we collaboratively working on a well narrowed down good first issues page, that beginners can narrow down issues based on their experience and really get something to contribute too.
 
-```bash
-cd my-website
-npm run start
-```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
