@@ -1,0 +1,15 @@
+{
+  "title": "Open Source",
+  "slug": "/category/open-source",
+  "permalink": "/docs/category/open-source",
+  "navigation": {
+    "previous": {
+      "title": "Deploy your site",
+      "permalink": "/docs/Contributing Guidelines/deploy-your-site"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/docs/Open Source/manage-docs-versions"
+    }
+  }
+}

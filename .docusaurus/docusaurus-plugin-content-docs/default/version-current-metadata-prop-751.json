@@ -1,0 +1,82 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "category",
+        "label": "Contributing Guidelines",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/docs/Contributing Guidelines/deploy-your-site",
+            "docId": "Contributing Guidelines/deploy-your-site"
+          }
+        ],
+        "href": "/docs/category/contributing-guidelines"
+      },
+      {
+        "type": "category",
+        "label": "Open Source",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Manage Docs Versions",
+            "href": "/docs/Open Source/manage-docs-versions",
+            "docId": "Open Source/manage-docs-versions"
+          },
+          {
+            "type": "link",
+            "label": "Translate your site",
+            "href": "/docs/Open Source/translate-your-site",
+            "docId": "Open Source/translate-your-site"
+          }
+        ],
+        "href": "/docs/category/open-source"
+      },
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/",
+        "docId": "intro"
+      }
+    ]
+  },
+  "docs": {
+    "Contributing Guidelines/deploy-your-site": {
+      "id": "Contributing Guidelines/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "What is HacktoberfestEkiti",
+      "sidebar": "tutorialSidebar"
+    },
+    "Open Source/manage-docs-versions": {
+      "id": "Open Source/manage-docs-versions",
+      "title": "Manage Docs Versions",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Open Source/translate-your-site": {
+      "id": "Open Source/translate-your-site",
+      "title": "Translate your site",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

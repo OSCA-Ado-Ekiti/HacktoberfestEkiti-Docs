@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Open Source/manage-docs-versions",
+  "id": "Open Source/manage-docs-versions",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/Open Source/manage-docs-versions.md",
+  "sourceDirName": "Open Source",
+  "slug": "/Open Source/manage-docs-versions",
+  "permalink": "/docs/Open Source/manage-docs-versions",
+  "draft": false,
+  "editUrl": "https://github.com/OSCA-Ado-Ekiti/HacktoberfestEkiti-Docs/docs/Open Source/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Open Source",
+    "permalink": "/docs/category/open-source"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/docs/Open Source/translate-your-site"
+  }
+}
