@@ -12,7 +12,7 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/hacktoberfest-ekiti.png',
 
 
   // GitHub pages deployment config.
@@ -62,7 +62,7 @@ const config = {
         title: 'Hacktoberfest Ekiti Docs',
         logo: {
           alt: 'Hacktoberfest Ekiti Logo',
-          src: 'img/logo.svg',
+          src: 'img/hacktoberfest-ekiti.png',
         },
         items: [
           {
