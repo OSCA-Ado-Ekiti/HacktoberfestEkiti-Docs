@@ -22,7 +22,7 @@ What was built? collaboratively, we spinned up a web app **[hacktoberfest-ekiti.
 ### Credits to goes to our awesome contributors
 
 <a href="https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2021-Ekiti/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OSCA-Ado-Ekiti/Hacktoberfest2021-Ekiti" />
+  <img src="https://user-images.githubusercontent.com/85078495/198866620-659a4b27-7c80-4eb4-84ee-5d2c427f5b21.png" />
 </a>
 
 ## Hacktoberfest Ekiti 2022
@@ -36,8 +36,9 @@ What was built? we collaboratively worked on a well narrowed down good first iss
 ### Credits to goes to our awesome contributors
 
 <a href="https://github.com/OSCA-Ado-Ekiti/Hacktoberfest2022-Ekiti/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OSCA-Ado-Ekiti/Hacktoberfest2022-Ekiti" />
+  <img src="https://user-images.githubusercontent.com/85078495/198866818-c3951698-9080-485e-8f2f-bdb64e212942.png" />
 </a>
+
 
 ### What else did the community contributed to?
 
@@ -49,5 +50,5 @@ A curated list of startups and tech companies in africa, this list can be handy 
 
 #### The contributors
 <a href="https://github.com/OSCA-Ado-Ekiti/tech-companies-in-africa/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OSCA-Ado-Ekiti/tech-companies-in-africa" />
+  <img src="https://user-images.githubusercontent.com/85078495/198866756-882998b0-2c3d-4a2a-b7f3-d3135e2f9a15.png" />
 </a>
